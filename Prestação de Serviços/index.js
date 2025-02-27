@@ -1,4 +1,4 @@
-alert("Prestação de Serviços agradece a preferência.");
+alert("Bem Vindo a HNW Classificados.");
 
 // Abre o formulário de contato ao clicar no botão
 document.getElementById("botaoContato").addEventListener("click", function () {
